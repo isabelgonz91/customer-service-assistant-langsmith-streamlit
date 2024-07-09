@@ -1,5 +1,7 @@
 # Customer Service Wizard with LangSmith and Streamlit
 
+![Streamlit and LangSmith Integration](screenshot.jpg)
+
 This sample application demonstrates how to integrate LangSmith to provide answers to frequently asked questions and product information with a user interface created in Streamlit.
 
 ## Installation
@@ -7,5 +9,5 @@ This sample application demonstrates how to integrate LangSmith to provide answe
 1. Clone this repository.
 2. Install the dependencies:
 
-````bash
+```bash
 pip install -r requirements.txt
